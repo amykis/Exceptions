@@ -14,7 +14,7 @@
 вернулся -2, пользователю выведется сообщение: “Искомый элемент не найден”.
  */
 
-package Seminar_1;
+package Seminar_1.Lesson;
 
 public class Task_1 {
     public static void main(String[] args) {

@@ -5,7 +5,7 @@
 входящих массивов в той же ячейке.
 Если длины массивов не равны, необходимо как-то оповестить пользователя.
 */
-package Seminar_1;
+package Seminar_1.Lesson;
 
 import java.util.ArrayList;
 import java.util.List;

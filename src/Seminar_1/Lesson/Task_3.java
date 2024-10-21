@@ -14,7 +14,7 @@
 в данном случае?
 * */
 
-package Seminar_1;
+package Seminar_1.Lesson;
 
 public class Task_3 {
     public static void main(String[] args) {

@@ -6,7 +6,7 @@
         массива.
  */
 
-package Seminar_1;
+package Seminar_1.Lesson;
 
 public class Task_0 {
     public static void main(String[] args) {

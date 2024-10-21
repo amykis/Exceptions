@@ -9,7 +9,7 @@
 2. Если null’ы встретились в нескольких ячейках, то идеально было бы все их
 “подсветить”
 */
-package Seminar_1;
+package Seminar_1.Lesson;
 
 import java.util.ArrayList;
 import java.util.List;

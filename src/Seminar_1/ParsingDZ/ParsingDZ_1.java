@@ -1,6 +1,10 @@
+/*
+Реализуйте 3 метода, чтобы в каждом из них получить разные исключени
+*/
+
 package Seminar_1.ParsingDZ;
 
-public class ParsingDZ {
+public class ParsingDZ_1 {
     public static void main(String[] args) {
         int [] array = {1, 2, 3 ,4};
 //        test1(array);

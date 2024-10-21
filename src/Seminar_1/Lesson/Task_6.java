@@ -6,9 +6,8 @@ https://github.com/sabinaIsm/test/blob/d2ebf811b85139783b1a0dcbe3714dbb28deee82/
 ошибки, добейтесь корректного выполнения программы.
 */
 
-package Seminar_1;
+package Seminar_1.Lesson;
 
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;

@@ -5,7 +5,7 @@
 детализировать какие строки со столбцами не требуется.
 Как бы вы реализовали подобный метод?
 */
-package Seminar_1;
+package Seminar_1.Lesson;
 
 public class Task_8 {
     public static void main(String[] args) {
